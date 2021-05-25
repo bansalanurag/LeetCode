@@ -1,4 +1,6 @@
 # LeetCode
 My submissions on the coding platform "Leetcode"
 
-Profile on leetcode : https://leetcode.com/AnuragBansal/
+File naming format : ProblemName_SubmissionId
+
+Profile : https://leetcode.com/AnuragBansal/
